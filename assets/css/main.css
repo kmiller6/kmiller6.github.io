@@ -138,6 +138,9 @@ padding-bottom: 10px;
 	padding-top: 30px
 }
 
+@media only screen and (max-width: 640px) { 
+}
+
 
 /* Basic */
 

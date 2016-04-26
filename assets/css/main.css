@@ -138,6 +138,11 @@ padding-bottom: 10px;
 	padding-top: 30px
 }
 
+
+.wrap {
+	max-width: 800px
+	
+}
 /* Basic */
 
 	@-ms-viewport {

@@ -56,11 +56,11 @@
 }
 
 
-.butt {
+.spa {
 		display: inline-block;
 		padding-bottom: 2em;
-		padding-left: .5em;
-		padding-right: .5em;
+		padding-left: 3.5em;
+		padding-right: 3.5em;
 		padding-top: 1em;
 		position: relative;
 		list-style-type: none;
